@@ -104,6 +104,11 @@ body{
 .apresentacao__imagem {
     width: 50%;
 }
+
+.skills {
+    margin: 10%;
+}
+
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
@@ -130,5 +135,10 @@ body{
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .skills {
+        margin: auto;
+        margin-top: 5%;
     }
 }
